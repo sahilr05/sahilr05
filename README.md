@@ -8,6 +8,4 @@
 
 <img align="left" src="https://github-readme-stats-five-steel.vercel.app/api/top-langs/?username=sahilr05&theme=gotham" alt="sahilr05" />
 
-[![Sahil's wakatime stats](https://github-readme-stats-five-steel.vercel.app/api/wakatime?username=sahilr05&theme=gotham&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
-    
 <img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=sahilr05&show_icons=true&theme=gotham&hide=issues&count_private=true&" alt="sahilr05" />
